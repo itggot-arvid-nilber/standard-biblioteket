@@ -27,5 +27,7 @@ require_relative 'average.rb'
 require_relative 'is_empty.rb'
 require_relative 'starts_with.rb'
 require_relative 'ends_with.rb'
+require_relative 'chomp.rb'
+
 
 
