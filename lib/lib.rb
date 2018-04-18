@@ -28,6 +28,11 @@ require_relative 'is_empty.rb'
 require_relative 'starts_with.rb'
 require_relative 'ends_with.rb'
 require_relative 'chomp.rb'
+require_relative 'contains_char.rb'
+require_relative 'index_of_char.rb'
+
+
+
 
 
 
