@@ -7,5 +7,3 @@ def sum_to(num)
     end
     return output
 end
-
-p sum_to(3)
