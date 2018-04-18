@@ -1,3 +1,3 @@
-def square(num)
+def cube(num)
     return num * num * num
 end
