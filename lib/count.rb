@@ -2,7 +2,7 @@ def count(string, char)
     i = 0 
     occurences = 0 
     
-    while i < string.size - 1
+    while i < string.size
         if string[i] == char
             occurences += 1
         end
