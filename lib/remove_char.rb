@@ -9,5 +9,3 @@ def remove_char(string, char)
     end
     return output
 end
-
-puts remove_char("hello","h")
