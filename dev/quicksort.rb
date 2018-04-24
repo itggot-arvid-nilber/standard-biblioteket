@@ -17,5 +17,3 @@ def quicksort(array)
     end
     return quicksort(left) + equal + quicksort(right)
 end
-
-p quicksort([2,5,2,3,5,6])
