@@ -30,6 +30,13 @@ require_relative 'ends_with.rb'
 require_relative 'chomp.rb'
 require_relative 'contains_char.rb'
 require_relative 'index_of_char.rb'
+require_relative 'count.rb'
+require_relative 'remove.rb'
+require_relative 'left_strip.rb'
+require_relative 'right_strip.rb'
+require_relative 'strip.rb'
+
+
 
 
 
