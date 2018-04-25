@@ -8,5 +8,5 @@ def count(string, char)
         end
         i+=1
     end
-    return occurences
+    return occurences   
 end
