@@ -36,6 +36,8 @@ require_relative 'left_strip.rb'
 require_relative 'right_strip.rb'
 require_relative 'strip.rb'
 require_relative 'replace_char.rb'
+require_relative 'splice.rb'
+require_relative 'split_char.rb'
 
 
 
