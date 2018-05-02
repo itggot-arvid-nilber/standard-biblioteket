@@ -1,3 +1,5 @@
+# Removes a specific character from an array
+
 def exclude(arr,char)
     i = 0 
     output = []

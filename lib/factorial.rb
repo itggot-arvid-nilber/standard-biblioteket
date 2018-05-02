@@ -7,5 +7,3 @@ def factorial(num)
     end
     return output
 end
-
-p factorial(5)

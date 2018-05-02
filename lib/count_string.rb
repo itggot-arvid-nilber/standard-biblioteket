@@ -1,3 +1,6 @@
+# Counts how many times specific letters occur in a string
+
+
 def count_string(string,letters)
     i = 0
     contains = false

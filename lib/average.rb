@@ -1,3 +1,5 @@
+# Takes an array as input and returns the average number
+
 def average(list)
     i = 0 
     sum = 0.0 

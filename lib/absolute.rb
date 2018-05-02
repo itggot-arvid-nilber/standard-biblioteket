@@ -1,3 +1,5 @@
+# Takes a integer and gives the absolute value on the integer 
+# as an output.
 
 def absoulute(num)
     if num < 0 

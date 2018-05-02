@@ -1,3 +1,5 @@
+# Checks if a string contains multiple letters.
+
 def contains_string(string, letters)
     i = 0 
     contains = false
