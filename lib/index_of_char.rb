@@ -8,5 +8,3 @@ def index_of_char(string, char)
     end
     return nil    
 end 
-
-puts index_of_char("Hej hopp", "h")

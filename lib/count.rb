@@ -1,6 +1,5 @@
 # Counts how many times a specific character occurs in a string
 
-
 def count(string, char)
     i = 0 
     occurences = 0 

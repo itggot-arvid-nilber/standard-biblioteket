@@ -38,6 +38,12 @@ require_relative 'strip.rb'
 require_relative 'replace_char.rb'
 require_relative 'splice.rb'
 require_relative 'split_char.rb'
+require_relative 'exclude.rb'
+require_relative 'unique.rb'
+require_relative 'contains_string.rb'
+require_relative 'index_of_string.rb'
+require_relative 'count_string.rb'
+
 
 
 

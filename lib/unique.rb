@@ -1,4 +1,5 @@
 load './contains_char.rb'
+
 def unique(arr)
     i = 0
     output = [arr[i]]
