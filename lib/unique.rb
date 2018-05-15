@@ -11,5 +11,3 @@ def unique(arr)
     end
     return output
 end
-
-puts unique(["bosse","olof","bosse", "sten"])
